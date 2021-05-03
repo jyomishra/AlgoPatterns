@@ -1,0 +1,57 @@
+Week 1 : Basic Of Java
+
+ - Basics of Java 
+ - Interview questions of Java
+ - Java 8, Java 9 , Java 11, Java 13 features
+ - How to read/write from/to files
+ - How to read input from the console
+ - How to split strings
+ - Is string length a function or a property (answer: it doesn’t matter, but still reflects poorly on you)
+ - How to declare and use 2D arrays
+ - Process command line arguments
+ - Parse CSV or text files
+ 
+Weeks 2 & 3  — Brush up the Data Structures and Algorithms
+
+ - Complexity Analysis (a.k.a BigO)
+ - Arrays
+ - Stacks
+ - Queues
+ - Linked List
+ - Trees
+ - Tries (They are effectively trees, but it’s still good to call them out separately).
+ - Graphs (BFS and DFS)
+ - Hash Tables
+ - Heaps
+ - Sorting
+ - Searching
+
+Week 4, 5 & 6  - Practise More on Data Structure and Algo 
+
+ - https://www.educative.io/courses/grokking-the-coding-interview
+ - https://www.educative.io/path/ace-java-coding-interview
+
+Once Week - (Design Pattern Study) - Every Sunday 1 Design Pattern
+
+Week 7, 8 & 9  - System Design Prepration
+
+ - https://www.educative.io/path/scalability-system-design
+ 
+Week 10  - System Design Interviews
+
+ - https://www.educative.io/path/scalability-system-design
+ 
+Week 11 - OS and Concurrency Concept
+
+ - https://www.educative.io/prepare-for-interview/concurrency
+ 
+Week 12 - Object-Oriented Design Interviews
+
+ - https://hackernoon.com/the-top-10-object-oriented-design-interview-questions-developers-should-know-c7fc2e13ce39
+ - https://www.educative.io/collection/5668639101419520/5692201761767424
+ - https://www.educative.io/collection/5307417243942912/5631943370604544
+ 
+Week 13-14 - Interview Prepration
+
+ - Old Project Prepration
+ - Current Project Prepration 
