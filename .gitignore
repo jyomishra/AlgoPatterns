@@ -7,10 +7,19 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
-# https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
 .settings/
 .vscode/
 .classpath
 .project
 /.idea/
+my-study-app.iml
+.idea/.gitignore
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/libraries/Maven__junit_junit_4_11.xml
+.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
